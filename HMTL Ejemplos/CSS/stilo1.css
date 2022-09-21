@@ -1,0 +1,19 @@
+
+h1{
+    color: rebeccapurple;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                       
+    }
+ h2{
+    color: aquamarine;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+ }
+ body{
+    background-color: #F1F9F8;
+    }
+div{
+   background-color: coral;
+   text-align: center;
+}

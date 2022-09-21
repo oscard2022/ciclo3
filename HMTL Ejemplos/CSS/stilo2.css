@@ -1,0 +1,28 @@
+
+div{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+menu{
+    list-style-type: none;
+    margin: 0%;
+    padding: 0;
+    overflow: hidden;
+    background-color: beige;
+
+
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    color: blue;
+    text-align: justify;
+    padding: 15px;
+    font-family: tahoma;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: cornsilk;
+}
